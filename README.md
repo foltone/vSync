@@ -1,10 +1,6 @@
-# vSync
+# vSync Updated by Foltone for ESX
 
 ### Simple weather and time sync script for FiveM servers.
-
-**Current version:** 1.3.0
-**Author:** Vespura
-**Last update:** 01-13-2018
 
 ***
 
