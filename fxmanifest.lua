@@ -1,6 +1,5 @@
-resofx_version 'cerulean'
-game 'common'
-use_experimental_fxv2_oal 'yes'
+fx_version 'adamant'
+game 'gta5'
 lua54 'yes'
 urce_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
@@ -10,4 +9,8 @@ client_scripts {
 
 server_scripts {
     'vs_server.lua',
+}
+
+dependencies {
+    'es_extended'
 }
